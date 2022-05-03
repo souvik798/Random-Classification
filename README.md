@@ -1,4 +1,4 @@
-## EX no. 1
+## EX NO.1
 ## DATE:
 
 ## <p align = 'center'> RANDOM CLASSIFICATION</p>
