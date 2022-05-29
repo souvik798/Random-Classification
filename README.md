@@ -39,7 +39,6 @@ Save the file and execute the program.
 
 ## Program:
 ```
-
 Program to implement random classification.
 Developed by   :SOUVIK KUNDU
 RegisterNumber :  212221230105
@@ -54,7 +53,6 @@ plt.plot(X[:, 0][y == 1], X[:, 1][y == 1], 'gx')
 plt.xlabel("feature 1")
 plt.ylabel("feature 2")
 plt.title('Random Classification Data with 2 classes')
-
 ```
 
 ## Output:
