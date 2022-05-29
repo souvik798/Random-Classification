@@ -37,6 +37,9 @@ Add title to the graph .
 Step 6:
 Save the file and execute the program.
 
+
+
+
 ## Program:
 ```
 Program to implement random classification.
@@ -55,8 +58,12 @@ plt.ylabel("feature 2")
 plt.title('Random Classification Data with 2 classes')
 ```
 
+
+
 ## Output:
 ![Ex no 1.Random Classifier plot](456.png)
+
+
 
 
 ## Result:
